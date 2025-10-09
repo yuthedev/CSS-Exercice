@@ -1,0 +1,17 @@
+/* Style général de la page */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style du titre */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Style du paragraphe */
+p {
+    color: gray;
+    text-align: justify;
+}
