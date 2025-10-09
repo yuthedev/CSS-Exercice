@@ -1,0 +1,13 @@
+body {
+  background-color: #f0f0f0;
+}
+
+#titre-principal {
+  color: blue;
+  text-align: center;
+}
+
+.intro {
+  color: green;
+  font-size: 20px;
+}
