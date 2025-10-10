@@ -1,0 +1,27 @@
+/* Selecteur universelle */
+* {
+    font-family: Arial, sans-serif;
+}
+
+/* Selecteur de type */
+p {
+    color: blueviolet;
+}
+
+/* Selecteur de type classe */
+.important {
+    color: blue;
+    font-weight: bold;
+}
+
+/* selecteur d'identifiant */
+#titre {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Autre classe */
+.note {
+    color: green;
+    font-style: italic;
+}
