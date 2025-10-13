@@ -1,0 +1,18 @@
+body {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+}
+
+div {
+    color: green;
+    background-color: yellow;
+}
+
+div p {
+    color: inherit; /* hérite du vert du div */
+    background-color: initial; /* reprend la valeur par defaut (Transparent) */
+}
+footer {
+    color: inherit;
+}
