@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 30px;
+}
+
+/* Style des blocs de couleur */
+.bloc {
+    color: white;
+    margin: 10px auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+
+/* Couleurs héxadécimales */
+.rouge {
+    background-color: #FF0000;
+}
+
+.vert {
+    background-color: #00FF00;
+    color: black; /* Meilleur contraste */
+}
+
+.bleu {
+    background-color: #0000FF;
+}
+
+/* Couleur avec transparence */
+.rgba {
+    background-color: rgba(255, 0, 0, 0.5);
+    color: black;
+    border: 2px solid red;
+}
+
+/*Transparence sur le texte*/
+.transparent {
+    opacity: 0.5;
+}
