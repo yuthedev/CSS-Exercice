@@ -1,0 +1,9 @@
+.carte {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 30px auto;
+    border: solid gray;
+    border-radius: 10px;
+    width: 300px;
+    box-sizing: border-box;
+}
